@@ -13,7 +13,7 @@
 
 		<h1>Daniel B Aronson</h1>
 		<img src="images/aronson.jpg">
-
+		<p>I am a senior at the University of Rochester majoring in Mechanical Engineering with a minor in Computer Science. At the University, I am a member of the men’s varsity Swimming and Diving team. I have been a captain of the team for the past two years and compete in sprint freestyle events. I am also a member of the school’s Varsity Student Athlete Advisory Committee (VSAAC). Outside of these activities, I enjoy playing Xbox and golfing. </p>
 
 
 	</header>
@@ -33,12 +33,7 @@
 	<main>
 		<h2></h2>
 
-		<p>
-
-		I am a senior at the University of Rochester majoring in Mechanical Engineering with a minor in Computer Science. At the University, I am a member of the men’s varsity Swimming and Diving team. I have been a captain of the team for the past two years and compete in sprint freestyle events. I am also a member of the school’s Varsity Student Athlete Advisory Committee (VSAAC). Outside of these activities, I enjoy playing Xbox and golfing. 
-
-
-		</p>
+		
 
 
 		<h2>Early Days</h2>
