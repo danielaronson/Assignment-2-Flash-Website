@@ -25,7 +25,7 @@
 
 	<?php include "inc/footer.inc";?>
 
-	<?php include "inc/nav.inc";?>
+	<?php include "inc/navigation.inc";?>
 
 		<script src="//code.jquery.com/jquery.js"></script>
 		<script src="js/menu-highlighter.js"></script>
