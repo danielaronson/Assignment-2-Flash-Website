@@ -17,7 +17,15 @@
 
 	</header>
 
-	<?php include "includes/list.inc";?>
+	<aside>
+		<ul>
+			<li> Mechanical Engineering Major</li>
+			<li> Computer Science Minor </li>
+			<li> Member of University of Rochester Swim Team </li>
+
+		</ul>
+
+	</aside>
 
 
 	<main>

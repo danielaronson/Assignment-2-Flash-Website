@@ -7,7 +7,20 @@
 	<link rel="stylesheet" href="css/navigation.css">
 </head>
 <body class="container">
-	<?php include "inc/top.inc"; ?>
+<header>
+	<a href="index.php">
+		<h1>Joshua Dennis</h1>
+		<img src="images/me.jpg" alt="Joshua Dennis">
+	</a>
+</header>
+<aside>
+	<ul>
+		<li>Joshua R Dennis</li>
+		<li>Statistics Major</li>
+		<li>Computer Science and Mathematics Minors</li>
+		<li>Varsity Athlete</li>
+	</ul>
+</aside>
 	<main>
 		<p>I am a junior at the University of Rochester majoring in statistics with minors in computer science and mathematics. On campus, I am a member of the men’s swimming and diving team, on which I swim sprint freestyle. Additionally, I work as a lifeguard at the athletic center.</p>
 
