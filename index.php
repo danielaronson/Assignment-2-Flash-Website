@@ -17,11 +17,10 @@
 
 	</header>
 
-	<?php include "inc/list.inc";?>
 
 
 	<main>
-	
+		Welcome to Team Seoul's webpage! We are all students pursuing a computer science minor and are passionate about coding. We are a part of the Swim Team on campus.
 	</main>
 
 	<?php include "inc/footer.inc";?>
