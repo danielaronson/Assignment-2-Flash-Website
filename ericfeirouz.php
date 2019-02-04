@@ -6,13 +6,8 @@
 	<link rel="stylesheet" href="css/styles.css">
 </head>
 <body class="container">
-	<header>
-		<a href="index.php">
-			<h1>Team Seoul</h1>
-			<img src="images/seoul.jpg">
-		</a>
-	</header>
 
+<?php include "inc/head/inc"; ?>
 
 	<aside>
 		<h1>Eric Feirouz</h1>
@@ -58,7 +53,7 @@
 
 	<?php include "includes/footer.inc";?>
 
-	<?php include "includes/nav.inc";?>
+	<?php include "includes/navigation.inc";?>
 
 		<script src="//code.jquery.com/jquery.js"></script>
 		<script src="js/menu-highlighter.js"></script>

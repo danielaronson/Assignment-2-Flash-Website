@@ -9,12 +9,7 @@
 
 <?php include "inc/head/inc"; ?>
 
-	<header>
-		<a href="index.php">
-			<h1>Team Seoul</h1>
-			<img src="images/seoul.jpg">
-		</a>
-	</header>
+
 
 	<aside>
 		<h1>Daniel B Aronson</h1>
@@ -62,7 +57,7 @@
 
 	<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
 
-	<?php include "inc/nav.inc"; ?>
+	<?php include "inc/navigation.inc"; ?>
 
 
 <script src="//code.jquery.com/jquery.js"></script>

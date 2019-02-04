@@ -8,12 +8,7 @@
 </head>
 <body class="container">
 
-<header>
-	<a href="index.php">
-			<h1>Team Seoul</h1>
-			<img src="images/seoul.jpg">
-		</a>
-</header>
+<?php include "inc/head/inc"; ?>
 
 <aside>
 	<h1>Josh Dennis</h1>
@@ -45,4 +40,4 @@
 		<h2>Sports Background</h2>
 		<p>Throughout elementary and middle school, I was very into playing soccer, spending most of my time outside of the classroom playing for my school or club teams. In the seventh grade, however, I was introduced to the sport of swimming, although thrown into the deep end is probably a more accurate description. Due to the size of our school, we did not have a middle school swim team, so in order to participate in swim with my brother, I had to join the varsity team as a very small seventh grader. I immediately fell in love with the sport, and eventually stopped playing soccer to exclusively swim. I swam a lot throughout high school and made many great friends as a result. Additionally, I was introduced to statistics through my course work in high school and became very interested in the subject, which influenced my major choice when I got to college.</p>
 	</main>
-	<?php include "inc/bottom.inc"; ?>
+	<?php include "inc/navigation.inc"; ?>
