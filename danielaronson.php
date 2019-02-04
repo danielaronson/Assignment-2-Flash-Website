@@ -7,13 +7,15 @@
 </head>
 <body class="container">
 
-<?php include "inc/head/inc"; ?>
+<?php include "inc/head.inc"; ?>
 
 
 
 	<aside>
-		<h1>Daniel B Aronson</h1>
-		<img src="images/aronson.jpg">
+		<h2>Daniel B Aronson</h2>
+		<figure>
+			<img src="images/aronson.jpg">
+		</figure>
 		<p>I am a senior at the University of Rochester majoring in Mechanical Engineering with a minor in Computer Science. At the University, I am a member of the men’s varsity Swimming and Diving team. I have been a captain of the team for the past two years and compete in sprint freestyle events. I am also a member of the school’s Varsity Student Athlete Advisory Committee (VSAAC). Outside of these activities, I enjoy playing Xbox and golfing. </p>
 		<ul>
 			<li>Mechanical Engineering Major</li>
@@ -26,7 +28,7 @@
 	</aside>
 
 	<main>
-		<h2>Early Days</h2>
+		<h3>Early Days</h3>
 
 		<p>
 
@@ -36,7 +38,7 @@
 
 		</p>
 
-		<h2>School</h2>
+		<h3>School</h3>
 
 		<p>
 
@@ -45,7 +47,7 @@
 		</p>
 
 
-		<h2>Work</h2>
+		<h3>Work</h3>
 
 		<p>
 
