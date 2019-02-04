@@ -7,7 +7,7 @@
 </head>
 <body class="container">
 
-<?php include "inc/head/inc"; ?>
+<?php include "inc/head.inc"; ?>
 
 
 
