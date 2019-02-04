@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-	<title>Daniel B Aronson | Lab 1 </title>
+	<title>Assignment 2: Flash Website</title>
 	<link rel="stylesheet" href="css/styles.css">
 </head>
 <body class="container">
@@ -10,12 +10,10 @@
 <?php include "inc/head/inc"; ?>
 
 	<header>
-		<a>
 
-			<h1>Daniel B Aronson</h1>
-			<img src="images/Aronson.jpg">
+		<h1>Daniel B Aronson</h1>
+		<img src="images/aronson.jpg">
 
-		</a>
 
 
 	</header>
