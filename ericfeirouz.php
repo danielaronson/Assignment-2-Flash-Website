@@ -51,9 +51,8 @@
 
 	</main>
 
-	<?php include "includes/footer.inc";?>
 
-	<?php include "includes/navigation.inc";?>
+	<?php include "inc/navigation.inc";?>
 
 		<script src="//code.jquery.com/jquery.js"></script>
 		<script src="js/menu-highlighter.js"></script>
