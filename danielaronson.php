@@ -10,16 +10,16 @@
 <?php include "inc/head/inc"; ?>
 
 	<header>
-
-		<h1>Daniel B Aronson</h1>
-		<img src="images/aronson.jpg">
-		<p>I am a senior at the University of Rochester majoring in Mechanical Engineering with a minor in Computer Science. At the University, I am a member of the men’s varsity Swimming and Diving team. I have been a captain of the team for the past two years and compete in sprint freestyle events. I am also a member of the school’s Varsity Student Athlete Advisory Committee (VSAAC). Outside of these activities, I enjoy playing Xbox and golfing. </p>
-
-
+		<a href="index.php">
+			<h1>Team Seoul</h1>
+			<img src="images/seoul.jpg">
+		</a>
 	</header>
 
 	<aside>
-
+		<h1>Daniel B Aronson</h1>
+		<img src="images/aronson.jpg">
+		<p>I am a senior at the University of Rochester majoring in Mechanical Engineering with a minor in Computer Science. At the University, I am a member of the men’s varsity Swimming and Diving team. I have been a captain of the team for the past two years and compete in sprint freestyle events. I am also a member of the school’s Varsity Student Athlete Advisory Committee (VSAAC). Outside of these activities, I enjoy playing Xbox and golfing. </p>
 		<ul>
 			<li>Mechanical Engineering Major</li>
 			<li>Computer Science Minor</li>
@@ -31,11 +31,6 @@
 	</aside>
 
 	<main>
-		<h2></h2>
-
-		
-
-
 		<h2>Early Days</h2>
 
 		<p>

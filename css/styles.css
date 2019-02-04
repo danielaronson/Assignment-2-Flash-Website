@@ -5,4 +5,27 @@
 	display: grid;
 	grid-template-columns: 200px 1fr 200px;
 }
-
+header {
+	grid-column: 1 / 4;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+aside {
+	grid-column: 1 / 4;
+	align-self: center;
+}
+main {
+	grid-column: 1 / 4;
+}
+footer {
+	grid-column: 1 / 2;
+}
+header a {
+	display: block;
+	position: relative;
+	text-decoration: none;
+	color: black;
+}
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: #E6E6FA;
+}
