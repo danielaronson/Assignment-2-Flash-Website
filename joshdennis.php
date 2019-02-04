@@ -10,9 +10,10 @@
 	<header>
 		<h1>Josh Dennis</h1>
 		<img src="images/dennis.jpg" alt="Josh Dennis Roster Picture">
+		<p>I am a junior at the University of Rochester majoring in statistics with minors in computer science and mathematics. On campus, I am a member of the men’s swimming and diving team, on which I swim sprint freestyle. Additionally, I work as a lifeguard at the athletic center.</p>
 	</header>
 	<main>
-		<p>I am a junior at the University of Rochester majoring in statistics with minors in computer science and mathematics. On campus, I am a member of the men’s swimming and diving team, on which I swim sprint freestyle. Additionally, I work as a lifeguard at the athletic center.</p>
+		
 
 		<h2>Early Days</h2>
 		<p>I was born in Orlando, Florida on August 14, 1998 and have two siblings, an older brother and a younger sister. After about three years in Florida, my family moved to Lindfield, New South Wales, Australia due to my father’s work. Although I was quite young for my entire time in Australia, it provided some very happy memories nonetheless and will always hold a special place in my heart. I remained overseas until my father’s job caused us to move back to the United States after about four years in Lindfield. We eventually settled in the small town of Lansing, New York, which I am fortunate enough to call my home currently.</p>
