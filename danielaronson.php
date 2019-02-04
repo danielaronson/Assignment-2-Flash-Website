@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 	<title>Assignment 2: Flash Website</title>
 	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/navigation.css">
 </head>
 <body class="container">
 

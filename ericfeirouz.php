@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<title>Assignment 2: Flash Website</title>
 	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/navigation.css">
 </head>
 <body class="container">
 
@@ -53,7 +54,7 @@
 
 	</main>
 
-
+	<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
 	<?php include "inc/navigation.inc";?>
 
 		<script src="//code.jquery.com/jquery.js"></script>
