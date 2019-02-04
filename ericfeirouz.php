@@ -7,12 +7,24 @@
 </head>
 <body class="container">
 	<header>
+		<a href="index.php">
+			<h1>Team Seoul</h1>
+			<img src="images/seoul.jpg">
+		</a>
+	</header>
 
+
+	<aside>
 		<h1>Eric Feirouz</h1>
 		<img src="images/feirouz.jpg" alt="Eric Feirouz Roster Pic">
-		
+		<ul>
+			<li> Mechanical Engineering Major</li>
+			<li> Computer Science Minor </li>
+			<li> Member of University of Rochester Swim Team </li>
 
-	</header>
+		</ul>
+
+	</aside>
 
 
 
