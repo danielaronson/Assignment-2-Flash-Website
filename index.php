@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<title>After College|Eric B Feirouz|Lab1: Initial Personal Website</title>
 	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/navigation.css">
 </head>
 <body class="container">
 	<header>
